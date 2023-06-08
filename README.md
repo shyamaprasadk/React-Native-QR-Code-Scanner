@@ -1,5 +1,6 @@
-# React-Native-QR-Code-Scanner
+# React-Native-QR-Code-Scanner Using React-Native-Vision-Camera
 
-▶ clone using #git clone
-▶ use yarn to install packages
-▶ #yarn start
+# 👉 clone Project
+# 👉 git checkout master
+# 👉 use yarn to install packages
+# 👉 yarn start
